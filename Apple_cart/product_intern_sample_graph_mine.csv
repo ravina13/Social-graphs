@@ -1,0 +1,9 @@
+ac_sink,ac_source,gender_sink,YOB_sink,age_sink,race_sink,gender_source,YOB_source,age_source,race_source
+ Anagha,Inamdar,M,1973,44,White,M,1948,69,White
+ravina,gaikwad,M,1974,43,Unknown,M,1948,69,White
+shishir,ambastha,F,1948,69,White,F,1930,87,Unknown
+romil ,shah,M,1977,40,White,F,1930,87,Unknown
+Inamdar, Anagha,M,1973,44,White,M,1948,69,White
+gaikwad,ravina,M,1974,43,Unknown,M,1948,69,White
+ambastha,shishir,F,1948,69,White,F,1930,87,Unknown
+shah,romil ,M,1977,40,White,F,1930,87,Unknown
